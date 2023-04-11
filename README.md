@@ -13,4 +13,6 @@ Priredbeni seznam:
 
 Slika vezalne sheme:
 
-![image](https://user-images.githubusercontent.com/129843209/229767226-551af895-bf6b-4485-89a4-ee6052f86d9f.png)
+
+
+![image](https://user-images.githubusercontent.com/129875689/231097717-9fd81c62-bab0-4c9e-8238-97ba64cd022e.png)
