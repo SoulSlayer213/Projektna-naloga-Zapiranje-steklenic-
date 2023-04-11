@@ -9,7 +9,10 @@ Priredbeni seznam:
 
 ![image](https://user-images.githubusercontent.com/129843209/229748183-a77da325-4b0a-4198-ad22-0b4e79095722.png)
 
-![image](https://user-images.githubusercontent.com/129843209/229748306-96188ff8-25b9-48ab-b509-15bb2271f7c0.png)
+
+![image](https://user-images.githubusercontent.com/129875689/231120721-005ce30e-a0ff-4db1-bd7c-f3359a2abb65.png)
+
+
 
 Slika vezalne sheme za ARDUINO:
 
