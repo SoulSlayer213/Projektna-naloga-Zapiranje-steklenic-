@@ -11,9 +11,12 @@ Priredbeni seznam:
 
 ![image](https://user-images.githubusercontent.com/129843209/229748306-96188ff8-25b9-48ab-b509-15bb2271f7c0.png)
 
-Slika vezalne sheme:
+Slika vezalne sheme za ARDUINO:
 
 ![image](https://user-images.githubusercontent.com/129875689/231112327-6bdf97a3-ff73-472f-86dd-a6787201fcde.png)
 
-
+Funkcijski program za krmilnik ALPHA
 ![image](https://user-images.githubusercontent.com/129875689/231097717-9fd81c62-bab0-4c9e-8238-97ba64cd022e.png)
+
+ EasyEDA vezalna shema za projekt s krmilnikom MITSUBISHI
+![image](https://user-images.githubusercontent.com/129875689/231115922-e575d7cc-95bb-44ea-8d2e-e810bc26c7b2.png)
