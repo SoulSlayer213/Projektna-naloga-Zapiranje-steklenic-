@@ -22,9 +22,6 @@ Slika vezja:
 
 ![20230414_083145](https://user-images.githubusercontent.com/129875689/231961937-c5cda19c-c895-4d0d-9d1d-a9adb0434384.jpg)
 
-C++ Koda programa:
-
-
 
 Funkcijski program za krmilnik ALPHA
 
