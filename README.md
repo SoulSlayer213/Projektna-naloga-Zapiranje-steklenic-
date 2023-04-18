@@ -3,6 +3,10 @@ NAVODILA:
  
 S tipko A aktiviramo gibanje enosmernega cilindra navzdol (utripanje rumene LED s frekvenco 2 Hz) in s tem nameščanje čepa v vrat steklenice. Pogoj za gibanje je, da je steklenica nameščena pod cilindrom, kar zaznava senzor S (stikalo). Gibanje cilnidra navzdol se ustavi, ko doseže spodnji položaj (in senzor Ksp - uporabite stikalo), s tem se tudi prižge signalna rdeča LED. Vračanje cilindra se začne takrat, če tipka A ni aktivirana, vračanje pa sproži senzor Ksp. 
 
+Komentar:
+
+Proces bi izboljšal tako, da bi naredil bolj varno s tem da bi namesto ene bile dve tipki, ki jih moreš pritisniti dovolj narazen, tako da ne moreš imeti roke pod cilindrom med delovanjem.
+
 Materiali:
 
 ![image](https://user-images.githubusercontent.com/129875689/232745157-77f4dae6-2d59-4c85-b342-0e6081ac107b.png)
