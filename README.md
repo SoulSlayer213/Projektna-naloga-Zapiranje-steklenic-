@@ -5,6 +5,9 @@ S tipko A aktiviramo gibanje enosmernega cilindra navzdol (utripanje rumene LED 
 
 Materiali:
 
+![image](https://user-images.githubusercontent.com/129875689/232745157-77f4dae6-2d59-4c85-b342-0e6081ac107b.png)
+
+
 Priredbeni seznam:
 
 ![image](https://user-images.githubusercontent.com/129843209/229748183-a77da325-4b0a-4198-ad22-0b4e79095722.png)
@@ -30,7 +33,11 @@ Funkcijski program za krmilnik ALPHA
 ![image](https://user-images.githubusercontent.com/129875689/231097717-9fd81c62-bab0-4c9e-8238-97ba64cd022e.png)
 
  EasyEDA vezalna shema za projekt s krmilnikom MITSUBISHI
-![image](https://user-images.githubusercontent.com/129875689/231115922-e575d7cc-95bb-44ea-8d2e-e810bc26c7b2.png)
+![image](https://user-images.githubusercontent.com/129875689/232744679-7d8bc22a-ae19-4f5e-9333-e101d208e5db.png)
+
+Easysoft vezalna shema
+
+![image](https://user-images.githubusercontent.com/129875689/232733325-5c5307a2-107b-4ab9-a3cd-b9abbca97012.png)
 
 Easysoft LAD Diagram
 
