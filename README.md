@@ -30,7 +30,7 @@ https://github.com/SoulSlayer213/Projektna-naloga-Zapiranje-steklenic-/raw/main/
 
 Funkcijski program za krmilnik ALPHA
 
-![image](https://user-images.githubusercontent.com/129875689/231097717-9fd81c62-bab0-4c9e-8238-97ba64cd022e.png)
+![image](https://user-images.githubusercontent.com/129875689/232751244-56b21810-0160-4527-b571-bd4b5a0cad0d.png)
 
  EasyEDA vezalna shema za projekt s krmilnikom MITSUBISHI
 ![image](https://user-images.githubusercontent.com/129875689/232744679-7d8bc22a-ae19-4f5e-9333-e101d208e5db.png)
