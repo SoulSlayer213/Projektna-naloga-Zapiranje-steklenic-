@@ -47,3 +47,4 @@ Easysoft LAD Diagram
 
 ![image](https://user-images.githubusercontent.com/129875689/231956586-5e181c3d-98af-430c-b5c1-397a47e12248.png)
 ![image](https://user-images.githubusercontent.com/129875689/231956871-55b15387-746c-47bd-89eb-a7244f892970.png)
+# neredila Mark Teršek in Jure Gozdnikar, 18.4.2023
